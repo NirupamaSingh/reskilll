@@ -1,0 +1,302 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  padding-right: 131px;
+  padding-left: 115px;
+  height: 98px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16);
+  position: relative;
+}
+
+.menuItems {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.joinNow {
+  background-color: #148cd7;
+  border-radius: 6px;
+  color: white;
+  width: 147px;
+  align-items: center;
+  height: 52px;
+  font-size: 18px;
+  font-weight: 700;
+  padding-left: 35px;
+  padding-top: 12px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+
+.title {
+  font-size: 64px;
+}
+
+.subText {
+  font-size: 30px;
+}
+
+.redText {
+  color: #db6200;
+}
+
+.story {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.sectionMain {
+  position: relative;
+  padding-top: 5rem;
+  padding-left: 8rem;
+}
+
+.sectionTitles {
+  font-size: 44px;
+  position: relative;
+  font-weight: 600;
+}
+
+.aboutContent {
+  font-size: 20px;
+}
+
+.submissionsContent {
+  font-size: 96px;
+}
+
+.participateContent {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.participateImg {
+  padding-left: 60px;
+}
+
+.picCaption {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.picCaption2 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.viewMore {
+  color: #188ee0;
+  font-size: 26px;
+  font-weight: 500;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.copyright {
+  font-size: 16px;
+  background-color: #00314e;
+  color: white;
+  height: 80px;
+}
+
+.footerCSS {
+  background-color: #094773;
+  color: white;
+  height: 360px;
+}
+
+.contactUs {
+  background-color: #fd9c3e;
+}
+
+.contactText {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.greyText {
+  color: #c4c4c4;
+  font-size: 16px;
+}
+
+.ankle1 {
+  position: absolute;
+  padding-top: 147px;
+  padding-left: 430px;
+}
+
+.ankle2 {
+  position: absolute;
+  padding-top: 174px;
+  padding-left: 54px;
+}
+
+.ankle3 {
+  position: absolute;
+  padding-top: 434px;
+  padding-left: 1px;
+}
+
+.ankle4 {
+  position: absolute;
+  padding-top: 634px;
+  padding-left: 51px;
+}
+.ankle5 {
+  position: absolute;
+  padding-top: 554px;
+  padding-left: 410px;
+}
+.ankle6 {
+  position: absolute;
+  padding-top: 397px;
+  padding-left: 781px;
+}
+.ankle7 {
+  position: absolute;
+  padding-top: 60px;
+  padding-left: 851px;
+}
+.ankle8 {
+  position: absolute;
+  padding-top: 634px;
+  padding-left: 1104px;
+}
+.ankle9 {
+  position: absolute;
+  padding-top: 278px;
+  padding-left: 1285px;
+}
+.ankle10 {
+  position: absolute;
+  padding-top: 132px;
+  padding-left: 1040px;
+}
+.ankle11 {
+  position: absolute;
+  padding-top: 470px;
+  padding-left: 1102px;
+}
+
+.bar1 {
+  padding-top: 101px;
+  padding-left: 623px;
+  position: absolute;
+}
+
+.bar2 {
+  padding-top: 409px;
+  padding-left: 913px;
+  position: absolute;
+}
+
+.mountain {
+  z-index: -5;
+  position: absolute;
+  padding-top: 309.24px;
+  padding-left: 114.79px;
+  width: 700px;
+}
+
+.wave1 {
+  width: 420px;
+  padding-left: 1px;
+  position: absolute;
+}
+
+.dotted {
+  position: absolute;
+  padding-top: 130px;
+  padding-left: 580px;
+}
+.dotted2 {
+  position: absolute;
+  padding-left: 580px;
+}
+
+.dotted3 {
+  position: relative;
+  padding-left: 192px;
+}
+
+.arrow {
+  position: absolute;
+  padding-left: 1000px;
+  padding-left: -10px;
+}
+
+.ring1 {
+  position: absolute;
+  padding-top: 100px;
+  padding-left: -100px;
+}
+
+.steps {
+  width: 1085.83px;
+  height: 747.34px;
+  padding-left: 177px;
+}
+
+.step1 {
+  padding-left: 300px;
+  width: 300px;
+}
+
+.step4 {
+  position: relative;
+  padding-left: 120px;
+}
+
+.loop5 {
+  padding-top: -102px;
+  padding-left: 1150px;
+  position: absolute;
+}
+
+.bit1{
+  position: absolute;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.bit2{
+  position: absolute;
+  padding-top: 150px;
+  padding-left: 850px;
+}
+.bit3{
+  position: absolute;
+  padding-top: 500px;
+  padding-left: 530px;
+}
+.bit4{
+  position: absolute;
+  padding-top: 600px;
+  padding-left: 457px;
+}
+.bit5{
+  position: absolute;
+  padding-top: 510px;
+  padding-left: 800px;
+}
+.bit6{
+  position: absolute;
+  padding-top: 432px;
+  padding-left: 534px;
+}
+.bit7{
+  position: absolute;
+  padding-top: 124px;
+  padding-left: 234px;
+}
+.bit8{
+  position: absolute;
+  padding-top: 650px;
+  padding-left: 850px;
+}
+
+
